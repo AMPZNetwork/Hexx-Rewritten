@@ -1,7 +1,7 @@
-# Hexx Rewritten 4
+# Hexx Rewritten 
 ======
 
-This is the official repository and issue-tracker for Hexx Rewritten 4 1.12
+This is the official repository and issue-tracker for Hexx Rewritten 1,2,3 and 4
     
 #### Modpack Links: 
 + https://www.technicpack.net/modpack/hexx-rewritten-4.1594566  
